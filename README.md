@@ -10,9 +10,9 @@ pine-green ink for titles and links, marigold tags and an ember caret.
 
 ## Principles
 
-- **A whispered voice.** IBM Plex Sans Light for the title and headings, at weight 300
-  with negative tracking and tight leading, so a headline reads as one shape; it is never
-  bolded up. The platform's own sans for the text.
+- **A whispered voice.** Cabin Sans Light for the title and headings, at weight 300 with
+  negative tracking and tight leading, so a headline reads as one shape; it is never bolded
+  up. The platform's own sans for the text.
 - **Pine green, calm authority.** The title, the largest heading, the open file and links
   are pine green; it never fills a button.
 - **One bright punctuation.** Marigold for tags, the highlighter and the plain note;
@@ -44,9 +44,10 @@ Settings → Appearance → Themes.
 
 ## Font
 
-IBM Plex Sans Light (© 2018 IBM Corp.) is embedded in `theme.css` as base64 WOFF2 under the
-SIL Open Font License 1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). One weight, Latin and
-Cyrillic, for the title, headings and pull quotes only.
+Cabin Sans is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of IBM Plex
+Sans Light (© 2018 IBM Corp.), renamed because a modified copy may not use the original's
+Reserved Font Name. One weight, for the title, headings and pull quotes only.
 
 ## License
 
@@ -56,6 +57,6 @@ MIT — see [LICENSE](LICENSE).
 
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Открытка» — журнал лесного
 домика на кремовой бумаге, и тёмный «Костёр» — тот же журнал у огня. Лёгкие заголовки
-(IBM Plex Sans Light), хвойно-зелёные чернила для названий и ссылок, золотистые метки и
+(Cabin Sans Light), хвойно-зелёные чернила для названий и ссылок, золотистые метки и
 огненная каретка. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить →
 Borozdov Cabin → Установить и применить.

@@ -25,9 +25,10 @@ House rules:
 - Obsidian's CSS variables first, plain selectors after; no `!important`, no `:has()`.
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
-- Cream paper and charcoal; pine green only for the title, the largest heading and
-  links, marigold for tags and the highlighter, ember for the caret. No shadows. The only
-  embedded font is IBM Plex Sans Light (the title and headings): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+- Cream paper and charcoal; pine green only for the title, the largest heading and links,
+  marigold for tags and the highlighter, ember for the caret. No shadows. The only
+  embedded font is Cabin Sans Light, a renamed subset of IBM Plex Sans Light (the title
+  and headings): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

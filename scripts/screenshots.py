@@ -159,7 +159,7 @@ type's colour; the plain note is a marigold card.</p></div>
 {callout("success", "check", "Done", "Pine for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Amber for what needs a look, ember for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Every page a postcard from the woods.</p></blockquote></div>
-{table(["Face", "Role"], ["Plex Sans 300", "Title and headings"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
+{table(["Face", "Role"], ["Cabin Sans 300", "Title and headings"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
 """
 
 NOTE_RU = f"""
