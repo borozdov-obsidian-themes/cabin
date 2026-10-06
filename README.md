@@ -34,10 +34,14 @@ pine-green ink for titles and links, marigold tags and an ember caret.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Cabin**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Cabin** under Style Settings → Borozdov Ember → Variant. The variant brings this theme's
+palette, type and corners; its own layout, and its embedded font if it has one, come with
+the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/cabin/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Cabin/`, then choose Borozdov Cabin under
 Settings → Appearance → Themes.
@@ -58,5 +62,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Открытка» — журнал лесного
 домика на кремовой бумаге, и тёмный «Костёр» — тот же журнал у огня. Лёгкие заголовки
 (Cabin Sans Light), хвойно-зелёные чернила для названий и ссылок, золотистые метки и
-огненная каретка. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить →
-Borozdov Cabin → Установить и применить.
+огненная каретка. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Cabin в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
